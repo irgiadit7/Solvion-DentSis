@@ -165,7 +165,7 @@ function VapiWidget() {
               </div>
             </div>
 
-            <h2 className="text-xl font-bold text-foreground">DentWise AI</h2>
+            <h2 className="text-xl font-bold text-foreground">DenSis AI</h2>
             <p className="text-sm text-muted-foreground mt-1">Dental Assistant</p>
 
             {/* SPEAKING INDICATOR */}
