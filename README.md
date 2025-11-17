@@ -24,15 +24,15 @@ Proyek ini dibangun menggunakan tumpukan teknologi modern untuk memastikan kiner
 * **Manajemen Data Pasien:** Penyimpanan data pasien yang aman dan terstruktur menggunakan Prisma.
 * **Antarmuka Responsif:** UI yang bersih dan modern dibangun dengan Tailwind CSS, dapat diakses di semua perangkat.
 
-## 🛠️ Tumpukan Teknologi
+## 🛠️ Tech stack
 
 * **Framework:** [Next.js](https://nextjs.org/)
 * **Library UI:** [React](https://reactjs.org/)
 * **Bahasa:** [TypeScript](https://www.typescriptlang.org/)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 * **ORM / Database:** [Prisma](https://www.prisma.io/)
-* **Manajemen State:** (Tambahkan di sini, misal: Zustand, Redux, Context API)
-* **Autentikasi:** (Tambahkan di sini, misal: NextAuth.js, Clerk)
+* **Manajemen State:**  Zustand, Redux, Context API
+* **Autentikasi:** NextAuth.js, Clerk
 
 ## 🚀 Memulai
 
